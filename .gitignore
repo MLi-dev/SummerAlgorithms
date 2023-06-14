@@ -1,0 +1,9 @@
+.idea/.gitignore
+.idea/algorithm.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+*/output/*
+cmake-build-debug/*
+cmake-build-debug/.cmake/*
+
